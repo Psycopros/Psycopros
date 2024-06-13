@@ -23,5 +23,3 @@ my current everyday progress this keep me motivated
 [![psycopros's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=psycopros&theme=material-palenight)](https://github.com/psycopros/github-readme-activity-graph)
 
 ![psycopros's GitHub stats](https://github-readme-stats.vercel.app/api?username=psycopros&show_icons=true&theme=material-palenight)
-
-
