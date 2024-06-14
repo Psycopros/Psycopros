@@ -3,13 +3,13 @@
 I'm a graduate student passionate about exploring the world of programming. have experience as fullstack developer.
 
 ## About Me
-Name: Ridho Ridwansyah Siregar
+**Name:** Ridho Ridwansyah Siregar
 
-Education: High School (Graduate)
+**Education:** High School (Graduate)
 
-Country: Indonesia
+**Country:** Indonesia
 
-Interests: Web Development, Game Development, Machine Learning
+**Interests:** Web Development, Game Development, Machine Learning
 
 ## Markup and Programming Language
 the language i normaly use for development
