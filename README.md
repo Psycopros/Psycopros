@@ -4,9 +4,12 @@ I'm a graduate student passionate about exploring the world of programming. have
 
 ## About Me
 Name: Ridho Ridwansyah Siregar
+
 Education: High School (Graduate)
-country: Indonesia
-Interests: Web Development, Game Development, Machine learning
+
+Country: Indonesia
+
+Interests: Web Development, Game Development, Machine Learning
 
 ## Markup and Programming Language
 the language i normaly use for development
